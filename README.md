@@ -1,3 +1,2 @@
-# Notebooks
-Notebooks on machine learning, optimization, financial engineering, and statistical analysis. \
-$y = mx + b$
+# Alex Vucenovic's Notebooks
+Notebooks on machine learning, optimization, and statistical analysis. 
